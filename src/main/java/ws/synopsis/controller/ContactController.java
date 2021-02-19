@@ -15,7 +15,6 @@ import org.springframework.web.servlet.ModelAndView;
 
 import ws.synopsis.component.RequestTimeInterceptor;
 import ws.synopsis.constant.ViewConstant;
-import ws.synopsis.entity.Contact;
 import ws.synopsis.model.ContactModel;
 import ws.synopsis.service.IContactService;
 
