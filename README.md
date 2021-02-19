@@ -1,2 +1,3 @@
 # SpringBoot-Example
-SpringBoot-Example:
+SpringBoot-Example
+Thymeleaf
